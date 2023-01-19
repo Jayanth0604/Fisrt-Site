@@ -1,0 +1,42 @@
+body{margin : 0 auto;padding: 0 auto;}
+.header{float:left;width:100%;background-color:grey;}
+.header h1 {color:white;text-align:center;}
+.header h3{text-align:right;padding-right:20em;color:white;}
+
+.header p {text-align:center;word-spacing:5em;text-transform:capitalize;font-size:20px;}
+
+/**headerends**/
+
+.images{float:left;width:100%;}
+.image{float:left;width:40%;text-align:left;}
+.note{float:right;width:50%;text-align:right;word-spacing:0.5em;line-height:1em;font-size:20px;padding-right:1em;}
+/**imagesends**/
+
+.alumini{float:left;width:100%;font-size:18px;}
+.alumini h2{color:back;text-align:center;text-decoration:underline;}
+.ri{float:left;width:47%;line-height:2em;padding:1em; text-align:center;}
+.cv{float:right;width:46%;line-height:2em;padding:1em;text-align:center;}
+/**aluminiends**/
+
+.alumini1{float:left;width:100%;line-height:2em;text-align:center;font-size:18px;}
+.vl h2{text-decoration:underline;}
+.vl{float:left;width:33.3%;}
+.nr h2{text-decoration:underline;}
+.nr{float:left;width:33.3%;}
+.cr{float:right;width:33.3%;}
+.cr h2{text-decoration:underline;}
+/**alumini1ends**/
+
+.dept{float:left;width:100%;text-align:center;line-height:1em;font-size:16px;background-color:grey;color:white;}
+.dept h2{text-decoration:underline;}
+.bsc{float:left;width:25%;}
+.msc{float:left;width:25%;}
+.arts{float:right;width:25%;}
+.marts{float:right;width:20%;}
+/**deptends**/
+.admision{float:left;width:100%;line-height:2em;}
+.admision h3{float:left;width:100%;font-size:20px;text-align:center;}
+.admision p {float:left;width:100%;text-align:center;}
+/**admision**/
+.footer{float:left;width:100%;color:black;background-color:grey;padding:2em 0em;}
+.footer p{text-align:center;padding-top:2em;}
